@@ -1,1 +1,1 @@
-include ':app', ':mvprxjava', ':app'
+include ':RxJava2lib'
